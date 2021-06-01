@@ -22,7 +22,7 @@ h1 {
   font-size: 50px;
 }
 .home-main {
-  background: url("http://images.nationalgeographic.com/wpf/media-live/photos/000/679/cache/orda-cave-diving_67930_990x742.jpg");
+  background: url("orda_cave_diving.jpg");
   background-size: cover;
   height: 700px;
 }
@@ -79,14 +79,20 @@ h1 {
 }
 
 .home-supporting, .home-about, .about-supporting {
-  padding: 80px;
+  padding: 10px;
   text-align: center;
 }
 
-.home-supporting h2, .home-about h2, .about-supporting h2 {
+.home-about h2 {
+  color: #FFF;
+  margin: 30px;
+}
+
+.home-supporting h2, .about-supporting h2 {
   color: #000;
   margin: 30px;
 }
+
 
 h2 {
   font-size: 45px;
@@ -120,7 +126,7 @@ h2 {
 .about-main {
     background-image: url("http://paulanorman.com/drafts/book_2007_0A/images_Fiji_Nadi/400x300/Nadi_Bay_Beach_Sunset_Man_IMG_3054.jpg");
     background-size: cover;
-    height: 700px;
+    height: 600px;
 }
 
 .about-main .content {
