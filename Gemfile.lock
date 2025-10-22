@@ -311,20 +311,20 @@ DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
   capybara (>= 3.26)
-  jbuilder (~> 2.7)
+  jbuilder
   listen (~> 3.3)
   puma
   rack-mini-profiler (~> 2.0)
   rails (~> 8.1.0)
-  sass-rails (>= 6)
+  sass-rails
   selenium-webdriver
   spring
   sqlite3 (~> 2.7)
-  turbolinks (~> 5)
+  turbolinks
   tzinfo-data
   web-console (>= 4.1.0)
   webdrivers
-  webpacker (~> 5.0)
+  webpacker
 
 RUBY VERSION
    ruby 3.4.7p58
