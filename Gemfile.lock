@@ -308,18 +308,18 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  bootsnap (>= 1.4.4)
+  bootsnap
   byebug
-  capybara (>= 3.26)
+  capybara
   jbuilder
-  listen (~> 3.3)
+  listen
   puma
-  rack-mini-profiler (~> 2.0)
+  rack-mini-profiler
   rails (~> 8.1.0)
   sass-rails
   selenium-webdriver
   spring
-  sqlite3 (~> 2.7)
+  sqlite3
   turbolinks
   tzinfo-data
   web-console (>= 4.1.0)
